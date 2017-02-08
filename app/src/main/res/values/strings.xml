@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">How To Impress A Girl</string>
+    <string name="title_activity_impress_agirl">ImpressAGirl</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_how_to_propose_girl">HowToProposeGirl</string>
+    <string name="title_activity_gift_ideas">GiftIdeas</string>
+</resources>
